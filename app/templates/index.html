@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalized Product Recommendation</title>
+    <link rel="stylesheet" href="../static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Personalized Product Recommendation</h1>
+        <form id="recommendationForm">
+            <label for="interest_area">Interest Area:</label>
+            <select id="interest_area" name="interest_area" required>
+                <option value="">Select</option>
+                <option value="cooking">Cooking</option>
+                <option value="outdoor">Outdoor</option>
+                <option value="baby">Baby</option>
+                <option value="automotive">Automotive</option>
+                <option value="apparel">Apparel</option>
+                <option value="plush">Plush</option>
+                <option value="toys">Toys</option>
+                <option value="pet-friendly">Pet-friendly</option>
+                <option value="kitchen">Kitchen</option>
+                <option value="dancing">Dancing</option>
+            </select>
+
+            <label for="price_preference">Price Preference:</label>
+            <select id="price_preference" name="price_preference" required>
+                <option value="">Select</option>
+                <option value="low">Low</option>
+                <option value="medium">Medium</option>
+                <option value="high">High</option>
+            </select>
+
+            <label for="trendiness">Trendiness:</label>
+            <select id="trendiness" name="trendiness" required>
+                <option value="">Select</option>
+                <option value="mainstream">Mainstream</option>
+                <option value="non-mainstream">Non-mainstream</option>
+            </select>
+
+            <label for="design_style">Design Style:</label>
+            <select id="design_style" name="design_style" required>
+                <option value="">Select</option>
+                <option value="professional">Professional</option>
+                <option value="minimalist">Minimalist</option>
+                <option value="vintage">Vintage</option>
+                <option value="monochromatic">Monochromatic</option>
+                <option value="universal">Universal</option>
+                <option value="caricature">Caricature</option>
+                <option value="chinese">Chinese</option>
+                <option value="western">Western</option>
+                <option value="asian">Asian</option>
+                <option value="cute">Cute</option>
+                <option value="detailed">Detailed</option>
+                <option value="serious">Serious</option>
+            </select>
+
+            <label for="recipient">Recipient:</label>
+            <input type="text" id="recipient" name="recipient" required>
+
+            <label for="location">Location:</label>
+            <input type="text" id="location" name="location" required>
+
+            <label for="delivery_timeline">Delivery Timeline:</label>
+            <input type="text" id="delivery_timeline" name="delivery_timeline" required>
+
+            <button type="submit">Get Recommendations</button>
+        </form>
+        <div id="recommendationResult"></div>
+    </div>
+    <script src="../static/script.js"></script>
+</body>
+</html>
