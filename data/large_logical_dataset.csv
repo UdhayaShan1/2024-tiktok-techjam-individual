@@ -1,0 +1,1001 @@
+interest_area,price_preference,trendiness,design_style,recipient,location,delivery_timeline,recommended_product
+cooking,low,mainstream,professional,yourself,France,3,pan
+outdoor,high,non-mainstream,minimalist,siblings,Japan,7,lantern
+baby,medium,mainstream,vintage,parents,China,14,baby stroller
+automotive,high,mainstream,monochromatic,spouse,China,14,car vacuum
+apparel,low,non-mainstream,universal,friends,USA,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,5,plush elephant
+toys,high,mainstream,Chinese,children,Australia,3,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Australia,7,fish food
+kitchen,medium,mainstream,Asian,neighbors,Canada,5,coffee maker
+dancing,high,mainstream,cute,classmates,Japan,3,salsa shoes
+cooking,low,mainstream,professional,yourself,India,5,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,France,3,backpack
+baby,medium,mainstream,vintage,parents,Australia,7,baby swing
+automotive,high,mainstream,monochromatic,spouse,USA,14,car polish
+apparel,low,non-mainstream,universal,friends,Canada,7,jeans
+plush,medium,non-mainstream,caricature,colleagues,Singapore,5,plush lion
+toys,high,mainstream,Chinese,children,Japan,14,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Japan,5,kettle
+dancing,high,mainstream,cute,classmates,Singapore,10,ballet slippers
+cooking,low,mainstream,professional,yourself,USA,7,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,UK,10,lantern
+baby,medium,mainstream,vintage,parents,Canada,3,baby walker
+automotive,high,mainstream,monochromatic,spouse,USA,14,car seat cover
+apparel,low,non-mainstream,universal,friends,Germany,3,dress
+plush,medium,non-mainstream,caricature,colleagues,USA,5,plush bear
+toys,high,mainstream,Chinese,children,Japan,7,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Canada,3,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,China,10,food processor
+dancing,high,mainstream,cute,classmates,China,14,tap shoes
+cooking,low,mainstream,professional,yourself,France,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,Australia,5,lantern
+baby,medium,mainstream,vintage,parents,Singapore,14,baby walker
+automotive,high,mainstream,monochromatic,spouse,Germany,3,car seat cover
+apparel,low,non-mainstream,universal,friends,India,7,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Japan,5,plush elephant
+toys,high,mainstream,Chinese,children,Canada,10,puzzle
+pet-friendly,low,non-mainstream,Western,pets,France,14,cat food
+kitchen,medium,mainstream,Asian,neighbors,China,14,rice cooker
+dancing,high,mainstream,cute,classmates,Singapore,7,dancing shoes
+cooking,low,mainstream,professional,yourself,France,7,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,India,14,tent
+baby,medium,mainstream,vintage,parents,Canada,10,baby stroller
+automotive,high,mainstream,monochromatic,spouse,UK,10,tire cleaner
+apparel,low,non-mainstream,universal,friends,China,7,hoodie
+plush,medium,non-mainstream,caricature,colleagues,France,3,plush elephant
+toys,high,mainstream,Chinese,children,Canada,5,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Canada,14,fish food
+kitchen,medium,mainstream,Asian,neighbors,Germany,14,coffee maker
+dancing,high,mainstream,cute,classmates,Germany,10,dancing shoes
+cooking,low,mainstream,professional,yourself,USA,10,blender
+outdoor,high,non-mainstream,minimalist,siblings,China,3,tent
+baby,medium,mainstream,vintage,parents,India,10,baby swing
+automotive,high,mainstream,monochromatic,spouse,UK,10,car polish
+apparel,low,non-mainstream,universal,friends,Australia,7,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Singapore,14,plush bear
+toys,high,mainstream,Chinese,children,Singapore,3,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Australia,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,China,10,microwave
+dancing,high,mainstream,cute,classmates,China,5,salsa shoes
+cooking,low,mainstream,professional,yourself,UK,3,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,7,tent
+baby,medium,mainstream,vintage,parents,Australia,10,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Australia,14,car polish
+apparel,low,non-mainstream,universal,friends,India,10,jeans
+plush,medium,non-mainstream,caricature,colleagues,Australia,10,plush tiger
+toys,high,mainstream,Chinese,children,India,14,toy truck
+pet-friendly,low,non-mainstream,Western,pets,France,7,bird food
+kitchen,medium,mainstream,Asian,neighbors,Canada,3,microwave
+dancing,high,mainstream,cute,classmates,UK,3,dancing shoes
+cooking,low,mainstream,professional,yourself,Australia,5,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,UK,14,lantern
+baby,medium,mainstream,vintage,parents,Singapore,14,baby walker
+automotive,high,mainstream,monochromatic,spouse,France,10,car seat cover
+apparel,low,non-mainstream,universal,friends,Australia,10,jacket
+plush,medium,non-mainstream,caricature,colleagues,India,14,teddy bear
+toys,high,mainstream,Chinese,children,Singapore,10,robot toy
+pet-friendly,low,non-mainstream,Western,pets,UK,5,dog food
+kitchen,medium,mainstream,Asian,neighbors,UK,5,coffee maker
+dancing,high,mainstream,cute,classmates,France,10,salsa shoes
+cooking,low,mainstream,professional,yourself,UK,10,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Australia,5,tent
+baby,medium,mainstream,vintage,parents,Canada,3,baby crib
+automotive,high,mainstream,monochromatic,spouse,Canada,3,car wax
+apparel,low,non-mainstream,universal,friends,Japan,3,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,India,14,plush panda
+toys,high,mainstream,Chinese,children,USA,10,action figure
+pet-friendly,low,non-mainstream,Western,pets,Canada,14,dog food
+kitchen,medium,mainstream,Asian,neighbors,India,7,food processor
+dancing,high,mainstream,cute,classmates,Germany,14,ballet slippers
+cooking,low,mainstream,professional,yourself,India,7,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,14,lantern
+baby,medium,mainstream,vintage,parents,Germany,14,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Germany,5,car polish
+apparel,low,non-mainstream,universal,friends,China,10,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Canada,5,plush lion
+toys,high,mainstream,Chinese,children,Australia,10,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Australia,5,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Japan,7,kettle
+dancing,high,mainstream,cute,classmates,China,14,ballet slippers
+cooking,low,mainstream,professional,yourself,India,5,knife set
+outdoor,high,non-mainstream,minimalist,siblings,India,3,lantern
+baby,medium,mainstream,vintage,parents,France,7,baby bottle
+automotive,high,mainstream,monochromatic,spouse,UK,3,tire cleaner
+apparel,low,non-mainstream,universal,friends,UK,3,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Australia,10,plush bear
+toys,high,mainstream,Chinese,children,Canada,5,board game
+pet-friendly,low,non-mainstream,Western,pets,UK,7,dog food
+kitchen,medium,mainstream,Asian,neighbors,UK,7,coffee maker
+dancing,high,mainstream,cute,classmates,Germany,14,dancing shoes
+cooking,low,mainstream,professional,yourself,Singapore,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,USA,7,lantern
+baby,medium,mainstream,vintage,parents,Australia,10,baby walker
+automotive,high,mainstream,monochromatic,spouse,France,10,car seat cover
+apparel,low,non-mainstream,universal,friends,Singapore,14,jeans
+plush,medium,non-mainstream,caricature,colleagues,France,5,teddy bear
+toys,high,mainstream,Chinese,children,Germany,10,lego set
+pet-friendly,low,non-mainstream,Western,pets,China,14,fish food
+kitchen,medium,mainstream,Asian,neighbors,Canada,7,food processor
+dancing,high,mainstream,cute,classmates,China,7,tap shoes
+cooking,low,mainstream,professional,yourself,Japan,10,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,5,tent
+baby,medium,mainstream,vintage,parents,UK,5,baby walker
+automotive,high,mainstream,monochromatic,spouse,Australia,5,tire cleaner
+apparel,low,non-mainstream,universal,friends,Singapore,10,jacket
+plush,medium,non-mainstream,caricature,colleagues,Japan,3,plush elephant
+toys,high,mainstream,Chinese,children,France,5,action figure
+pet-friendly,low,non-mainstream,Western,pets,UK,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Australia,10,kettle
+dancing,high,mainstream,cute,classmates,Japan,5,ballet slippers
+cooking,low,mainstream,professional,yourself,Germany,10,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,Canada,3,tent
+baby,medium,mainstream,vintage,parents,Canada,3,baby walker
+automotive,high,mainstream,monochromatic,spouse,Germany,5,car vacuum
+apparel,low,non-mainstream,universal,friends,UK,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Japan,3,plush elephant
+toys,high,mainstream,Chinese,children,Canada,10,lego set
+pet-friendly,low,non-mainstream,Western,pets,Japan,14,bird food
+kitchen,medium,mainstream,Asian,neighbors,India,10,rice cooker
+dancing,high,mainstream,cute,classmates,India,14,ballet slippers
+cooking,low,mainstream,professional,yourself,France,14,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,UK,10,tent
+baby,medium,mainstream,vintage,parents,Singapore,7,baby monitor
+automotive,high,mainstream,monochromatic,spouse,China,3,car wax
+apparel,low,non-mainstream,universal,friends,China,3,shirt
+plush,medium,non-mainstream,caricature,colleagues,Germany,14,plush panda
+toys,high,mainstream,Chinese,children,India,10,action figure
+pet-friendly,low,non-mainstream,Western,pets,Singapore,7,dog food
+kitchen,medium,mainstream,Asian,neighbors,Germany,3,blender
+dancing,high,mainstream,cute,classmates,UK,7,tap shoes
+cooking,low,mainstream,professional,yourself,Singapore,14,spatula
+outdoor,high,non-mainstream,minimalist,siblings,China,14,tent
+baby,medium,mainstream,vintage,parents,France,7,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Canada,7,tire cleaner
+apparel,low,non-mainstream,universal,friends,Japan,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,Canada,7,plush elephant
+toys,high,mainstream,Chinese,children,UK,3,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Singapore,5,fish food
+kitchen,medium,mainstream,Asian,neighbors,China,14,blender
+dancing,high,mainstream,cute,classmates,Canada,7,dancing shoes
+cooking,low,mainstream,professional,yourself,China,14,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,10,camping stove
+baby,medium,mainstream,vintage,parents,India,10,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Australia,3,car wax
+apparel,low,non-mainstream,universal,friends,Japan,5,jacket
+plush,medium,non-mainstream,caricature,colleagues,Canada,3,plush tiger
+toys,high,mainstream,Chinese,children,Germany,7,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Japan,7,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Canada,3,kettle
+dancing,high,mainstream,cute,classmates,Canada,5,salsa shoes
+cooking,low,mainstream,professional,yourself,USA,7,spatula
+outdoor,high,non-mainstream,minimalist,siblings,Japan,3,camping stove
+baby,medium,mainstream,vintage,parents,USA,7,baby stroller
+automotive,high,mainstream,monochromatic,spouse,UK,14,car wax
+apparel,low,non-mainstream,universal,friends,USA,3,jacket
+plush,medium,non-mainstream,caricature,colleagues,USA,5,teddy bear
+toys,high,mainstream,Chinese,children,Japan,3,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Canada,3,bird food
+kitchen,medium,mainstream,Asian,neighbors,UK,3,kettle
+dancing,high,mainstream,cute,classmates,France,14,tap shoes
+cooking,low,mainstream,professional,yourself,Germany,7,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,10,backpack
+baby,medium,mainstream,vintage,parents,China,10,baby walker
+automotive,high,mainstream,monochromatic,spouse,Japan,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,Japan,5,dress
+plush,medium,non-mainstream,caricature,colleagues,India,10,plush bear
+toys,high,mainstream,Chinese,children,Germany,10,board game
+pet-friendly,low,non-mainstream,Western,pets,Singapore,3,fish food
+kitchen,medium,mainstream,Asian,neighbors,Japan,7,microwave
+dancing,high,mainstream,cute,classmates,Canada,7,tap shoes
+cooking,low,mainstream,professional,yourself,USA,14,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,10,lantern
+baby,medium,mainstream,vintage,parents,UK,14,baby swing
+automotive,high,mainstream,monochromatic,spouse,USA,3,car wax
+apparel,low,non-mainstream,universal,friends,France,5,dress
+plush,medium,non-mainstream,caricature,colleagues,France,7,plush tiger
+toys,high,mainstream,Chinese,children,USA,10,lego set
+pet-friendly,low,non-mainstream,Western,pets,Japan,7,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Germany,7,food processor
+dancing,high,mainstream,cute,classmates,USA,3,ballet slippers
+cooking,low,mainstream,professional,yourself,UK,7,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,India,7,camping stove
+baby,medium,mainstream,vintage,parents,Germany,14,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Australia,5,car polish
+apparel,low,non-mainstream,universal,friends,Germany,5,jeans
+plush,medium,non-mainstream,caricature,colleagues,China,14,plush bear
+toys,high,mainstream,Chinese,children,Canada,10,board game
+pet-friendly,low,non-mainstream,Western,pets,Germany,3,fish food
+kitchen,medium,mainstream,Asian,neighbors,Australia,14,rice cooker
+dancing,high,mainstream,cute,classmates,USA,7,salsa shoes
+cooking,low,mainstream,professional,yourself,Singapore,14,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,France,7,backpack
+baby,medium,mainstream,vintage,parents,UK,3,baby stroller
+automotive,high,mainstream,monochromatic,spouse,USA,10,tire cleaner
+apparel,low,non-mainstream,universal,friends,Japan,14,hoodie
+plush,medium,non-mainstream,caricature,colleagues,USA,7,plush lion
+toys,high,mainstream,Chinese,children,China,10,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,14,cat food
+kitchen,medium,mainstream,Asian,neighbors,France,7,coffee maker
+dancing,high,mainstream,cute,classmates,Canada,7,tap shoes
+cooking,low,mainstream,professional,yourself,Japan,5,pan
+outdoor,high,non-mainstream,minimalist,siblings,France,7,lantern
+baby,medium,mainstream,vintage,parents,Germany,10,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Singapore,7,car seat cover
+apparel,low,non-mainstream,universal,friends,Singapore,5,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Canada,14,plush panda
+toys,high,mainstream,Chinese,children,Japan,5,board game
+pet-friendly,low,non-mainstream,Western,pets,China,5,cat food
+kitchen,medium,mainstream,Asian,neighbors,China,3,food processor
+dancing,high,mainstream,cute,classmates,Singapore,10,ballet slippers
+cooking,low,mainstream,professional,yourself,India,7,knife set
+outdoor,high,non-mainstream,minimalist,siblings,China,7,backpack
+baby,medium,mainstream,vintage,parents,Germany,7,baby swing
+automotive,high,mainstream,monochromatic,spouse,China,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,Singapore,14,dress
+plush,medium,non-mainstream,caricature,colleagues,Germany,7,plush lion
+toys,high,mainstream,Chinese,children,India,10,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Australia,14,cat food
+kitchen,medium,mainstream,Asian,neighbors,Canada,5,coffee maker
+dancing,high,mainstream,cute,classmates,USA,10,ballet slippers
+cooking,low,mainstream,professional,yourself,Japan,3,pan
+outdoor,high,non-mainstream,minimalist,siblings,UK,3,camping stove
+baby,medium,mainstream,vintage,parents,Singapore,10,baby swing
+automotive,high,mainstream,monochromatic,spouse,Germany,3,car wax
+apparel,low,non-mainstream,universal,friends,Germany,5,jeans
+plush,medium,non-mainstream,caricature,colleagues,Japan,5,plush panda
+toys,high,mainstream,Chinese,children,Japan,10,board game
+pet-friendly,low,non-mainstream,Western,pets,Singapore,5,dog leash
+kitchen,medium,mainstream,Asian,neighbors,France,7,coffee maker
+dancing,high,mainstream,cute,classmates,France,7,tap shoes
+cooking,low,mainstream,professional,yourself,Canada,7,knife set
+outdoor,high,non-mainstream,minimalist,siblings,India,5,camping stove
+baby,medium,mainstream,vintage,parents,India,10,baby walker
+automotive,high,mainstream,monochromatic,spouse,China,14,car vacuum
+apparel,low,non-mainstream,universal,friends,Canada,5,jeans
+plush,medium,non-mainstream,caricature,colleagues,India,3,plush tiger
+toys,high,mainstream,Chinese,children,UK,7,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Japan,5,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,USA,10,kettle
+dancing,high,mainstream,cute,classmates,UK,10,jazz shoes
+cooking,low,mainstream,professional,yourself,India,14,blender
+outdoor,high,non-mainstream,minimalist,siblings,Japan,5,backpack
+baby,medium,mainstream,vintage,parents,Japan,14,baby swing
+automotive,high,mainstream,monochromatic,spouse,Japan,3,car vacuum
+apparel,low,non-mainstream,universal,friends,Singapore,3,dress
+plush,medium,non-mainstream,caricature,colleagues,Australia,5,plush elephant
+toys,high,mainstream,Chinese,children,USA,3,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,Germany,3,blender
+dancing,high,mainstream,cute,classmates,France,10,tap shoes
+cooking,low,mainstream,professional,yourself,China,10,blender
+outdoor,high,non-mainstream,minimalist,siblings,Australia,5,camping stove
+baby,medium,mainstream,vintage,parents,UK,7,baby swing
+automotive,high,mainstream,monochromatic,spouse,Germany,5,car wax
+apparel,low,non-mainstream,universal,friends,Japan,7,jeans
+plush,medium,non-mainstream,caricature,colleagues,India,10,teddy bear
+toys,high,mainstream,Chinese,children,UK,10,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Canada,5,cat food
+kitchen,medium,mainstream,Asian,neighbors,Canada,10,rice cooker
+dancing,high,mainstream,cute,classmates,Singapore,10,dancing shoes
+cooking,low,mainstream,professional,yourself,USA,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,Australia,5,camping stove
+baby,medium,mainstream,vintage,parents,China,5,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Australia,5,car seat cover
+apparel,low,non-mainstream,universal,friends,Japan,5,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Germany,5,plush tiger
+toys,high,mainstream,Chinese,children,Australia,10,robot toy
+pet-friendly,low,non-mainstream,Western,pets,China,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,France,14,coffee maker
+dancing,high,mainstream,cute,classmates,France,10,salsa shoes
+cooking,low,mainstream,professional,yourself,Canada,3,spatula
+outdoor,high,non-mainstream,minimalist,siblings,USA,10,tent
+baby,medium,mainstream,vintage,parents,France,7,baby crib
+automotive,high,mainstream,monochromatic,spouse,India,7,car vacuum
+apparel,low,non-mainstream,universal,friends,UK,3,jeans
+plush,medium,non-mainstream,caricature,colleagues,Japan,5,plush lion
+toys,high,mainstream,Chinese,children,Canada,10,action figure
+pet-friendly,low,non-mainstream,Western,pets,UK,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,USA,7,coffee maker
+dancing,high,mainstream,cute,classmates,Canada,14,jazz shoes
+cooking,low,mainstream,professional,yourself,India,14,knife set
+outdoor,high,non-mainstream,minimalist,siblings,UK,3,lantern
+baby,medium,mainstream,vintage,parents,Japan,3,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Japan,10,car seat cover
+apparel,low,non-mainstream,universal,friends,UK,3,jacket
+plush,medium,non-mainstream,caricature,colleagues,Canada,7,teddy bear
+toys,high,mainstream,Chinese,children,UK,7,board game
+pet-friendly,low,non-mainstream,Western,pets,Singapore,7,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Australia,10,rice cooker
+dancing,high,mainstream,cute,classmates,India,10,dancing shoes
+cooking,low,mainstream,professional,yourself,France,5,blender
+outdoor,high,non-mainstream,minimalist,siblings,USA,5,tent
+baby,medium,mainstream,vintage,parents,Canada,10,baby crib
+automotive,high,mainstream,monochromatic,spouse,Japan,3,car seat cover
+apparel,low,non-mainstream,universal,friends,Japan,7,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Australia,7,plush elephant
+toys,high,mainstream,Chinese,children,UK,7,puzzle
+pet-friendly,low,non-mainstream,Western,pets,USA,5,dog leash
+kitchen,medium,mainstream,Asian,neighbors,China,14,food processor
+dancing,high,mainstream,cute,classmates,India,3,ballet slippers
+cooking,low,mainstream,professional,yourself,Australia,5,blender
+outdoor,high,non-mainstream,minimalist,siblings,Japan,5,lantern
+baby,medium,mainstream,vintage,parents,India,3,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Australia,10,car vacuum
+apparel,low,non-mainstream,universal,friends,China,3,jacket
+plush,medium,non-mainstream,caricature,colleagues,India,3,plush tiger
+toys,high,mainstream,Chinese,children,Singapore,7,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Canada,7,bird food
+kitchen,medium,mainstream,Asian,neighbors,France,7,coffee maker
+dancing,high,mainstream,cute,classmates,Canada,7,salsa shoes
+cooking,low,mainstream,professional,yourself,Australia,5,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,USA,14,camping stove
+baby,medium,mainstream,vintage,parents,France,10,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Germany,10,car polish
+apparel,low,non-mainstream,universal,friends,Germany,7,jeans
+plush,medium,non-mainstream,caricature,colleagues,Singapore,14,plush bear
+toys,high,mainstream,Chinese,children,USA,7,board game
+pet-friendly,low,non-mainstream,Western,pets,Singapore,14,bird food
+kitchen,medium,mainstream,Asian,neighbors,Canada,7,kettle
+dancing,high,mainstream,cute,classmates,India,7,tap shoes
+cooking,low,mainstream,professional,yourself,Germany,7,blender
+outdoor,high,non-mainstream,minimalist,siblings,China,10,tent
+baby,medium,mainstream,vintage,parents,Australia,10,baby walker
+automotive,high,mainstream,monochromatic,spouse,Canada,7,car vacuum
+apparel,low,non-mainstream,universal,friends,Japan,3,jacket
+plush,medium,non-mainstream,caricature,colleagues,Singapore,3,teddy bear
+toys,high,mainstream,Chinese,children,India,5,lego set
+pet-friendly,low,non-mainstream,Western,pets,UK,14,dog food
+kitchen,medium,mainstream,Asian,neighbors,China,7,blender
+dancing,high,mainstream,cute,classmates,Canada,3,dancing shoes
+cooking,low,mainstream,professional,yourself,Canada,3,pan
+outdoor,high,non-mainstream,minimalist,siblings,France,5,tent
+baby,medium,mainstream,vintage,parents,Singapore,10,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Singapore,7,car vacuum
+apparel,low,non-mainstream,universal,friends,Japan,10,jacket
+plush,medium,non-mainstream,caricature,colleagues,USA,5,plush lion
+toys,high,mainstream,Chinese,children,UK,10,puzzle
+pet-friendly,low,non-mainstream,Western,pets,India,5,fish food
+kitchen,medium,mainstream,Asian,neighbors,USA,5,food processor
+dancing,high,mainstream,cute,classmates,Australia,5,ballet slippers
+cooking,low,mainstream,professional,yourself,USA,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,5,backpack
+baby,medium,mainstream,vintage,parents,India,14,baby crib
+automotive,high,mainstream,monochromatic,spouse,France,7,car wax
+apparel,low,non-mainstream,universal,friends,UK,10,shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,7,plush tiger
+toys,high,mainstream,Chinese,children,USA,10,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Singapore,14,cat food
+kitchen,medium,mainstream,Asian,neighbors,Australia,14,coffee maker
+dancing,high,mainstream,cute,classmates,UK,5,salsa shoes
+cooking,low,mainstream,professional,yourself,USA,3,blender
+outdoor,high,non-mainstream,minimalist,siblings,UK,5,backpack
+baby,medium,mainstream,vintage,parents,Singapore,7,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Australia,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,UK,5,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,USA,14,plush elephant
+toys,high,mainstream,Chinese,children,France,7,toy truck
+pet-friendly,low,non-mainstream,Western,pets,France,14,dog food
+kitchen,medium,mainstream,Asian,neighbors,France,5,blender
+dancing,high,mainstream,cute,classmates,Germany,10,salsa shoes
+cooking,low,mainstream,professional,yourself,China,14,pan
+outdoor,high,non-mainstream,minimalist,siblings,France,5,camping stove
+baby,medium,mainstream,vintage,parents,Singapore,3,baby stroller
+automotive,high,mainstream,monochromatic,spouse,China,14,car wax
+apparel,low,non-mainstream,universal,friends,Japan,14,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,3,plush lion
+toys,high,mainstream,Chinese,children,India,3,puzzle
+pet-friendly,low,non-mainstream,Western,pets,China,10,bird food
+kitchen,medium,mainstream,Asian,neighbors,China,10,kettle
+dancing,high,mainstream,cute,classmates,China,14,jazz shoes
+cooking,low,mainstream,professional,yourself,USA,5,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Germany,14,backpack
+baby,medium,mainstream,vintage,parents,India,7,baby stroller
+automotive,high,mainstream,monochromatic,spouse,UK,10,car polish
+apparel,low,non-mainstream,universal,friends,France,7,jacket
+plush,medium,non-mainstream,caricature,colleagues,Japan,3,teddy bear
+toys,high,mainstream,Chinese,children,China,10,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,10,cat food
+kitchen,medium,mainstream,Asian,neighbors,China,3,food processor
+dancing,high,mainstream,cute,classmates,Germany,5,jazz shoes
+cooking,low,mainstream,professional,yourself,Germany,10,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,China,7,tent
+baby,medium,mainstream,vintage,parents,Canada,5,baby walker
+automotive,high,mainstream,monochromatic,spouse,India,5,car seat cover
+apparel,low,non-mainstream,universal,friends,Canada,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Japan,14,teddy bear
+toys,high,mainstream,Chinese,children,India,14,robot toy
+pet-friendly,low,non-mainstream,Western,pets,France,10,cat food
+kitchen,medium,mainstream,Asian,neighbors,India,7,food processor
+dancing,high,mainstream,cute,classmates,Canada,10,ballet slippers
+cooking,low,mainstream,professional,yourself,Germany,3,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,India,5,backpack
+baby,medium,mainstream,vintage,parents,China,10,baby crib
+automotive,high,mainstream,monochromatic,spouse,Australia,7,car seat cover
+apparel,low,non-mainstream,universal,friends,Australia,14,shirt
+plush,medium,non-mainstream,caricature,colleagues,USA,3,plush panda
+toys,high,mainstream,Chinese,children,Japan,10,toy truck
+pet-friendly,low,non-mainstream,Western,pets,UK,7,fish food
+kitchen,medium,mainstream,Asian,neighbors,China,14,coffee maker
+dancing,high,mainstream,cute,classmates,Australia,14,tap shoes
+cooking,low,mainstream,professional,yourself,UK,3,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,India,7,tent
+baby,medium,mainstream,vintage,parents,India,10,baby swing
+automotive,high,mainstream,monochromatic,spouse,France,7,car polish
+apparel,low,non-mainstream,universal,friends,India,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,5,plush panda
+toys,high,mainstream,Chinese,children,Canada,14,action figure
+pet-friendly,low,non-mainstream,Western,pets,France,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,France,3,food processor
+dancing,high,mainstream,cute,classmates,Australia,7,jazz shoes
+cooking,low,mainstream,professional,yourself,India,3,blender
+outdoor,high,non-mainstream,minimalist,siblings,France,10,lantern
+baby,medium,mainstream,vintage,parents,Australia,14,baby crib
+automotive,high,mainstream,monochromatic,spouse,UK,10,car seat cover
+apparel,low,non-mainstream,universal,friends,France,10,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Canada,10,plush elephant
+toys,high,mainstream,Chinese,children,Germany,14,lego set
+pet-friendly,low,non-mainstream,Western,pets,India,5,bird food
+kitchen,medium,mainstream,Asian,neighbors,Germany,14,coffee maker
+dancing,high,mainstream,cute,classmates,India,3,ballet slippers
+cooking,low,mainstream,professional,yourself,Japan,5,spatula
+outdoor,high,non-mainstream,minimalist,siblings,Japan,10,lantern
+baby,medium,mainstream,vintage,parents,Germany,7,baby crib
+automotive,high,mainstream,monochromatic,spouse,China,5,car vacuum
+apparel,low,non-mainstream,universal,friends,UK,14,shirt
+plush,medium,non-mainstream,caricature,colleagues,Germany,3,plush elephant
+toys,high,mainstream,Chinese,children,UK,7,action figure
+pet-friendly,low,non-mainstream,Western,pets,Singapore,5,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Japan,7,blender
+dancing,high,mainstream,cute,classmates,USA,10,jazz shoes
+cooking,low,mainstream,professional,yourself,China,7,pan
+outdoor,high,non-mainstream,minimalist,siblings,Japan,3,backpack
+baby,medium,mainstream,vintage,parents,India,5,baby swing
+automotive,high,mainstream,monochromatic,spouse,Canada,7,car polish
+apparel,low,non-mainstream,universal,friends,USA,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,USA,7,teddy bear
+toys,high,mainstream,Chinese,children,Japan,10,lego set
+pet-friendly,low,non-mainstream,Western,pets,Canada,5,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Germany,5,rice cooker
+dancing,high,mainstream,cute,classmates,UK,5,salsa shoes
+cooking,low,mainstream,professional,yourself,Canada,5,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,China,14,camping stove
+baby,medium,mainstream,vintage,parents,Canada,7,baby swing
+automotive,high,mainstream,monochromatic,spouse,Japan,5,car seat cover
+apparel,low,non-mainstream,universal,friends,Singapore,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Canada,7,plush panda
+toys,high,mainstream,Chinese,children,France,14,lego set
+pet-friendly,low,non-mainstream,Western,pets,Australia,7,fish food
+kitchen,medium,mainstream,Asian,neighbors,Singapore,14,kettle
+dancing,high,mainstream,cute,classmates,USA,14,jazz shoes
+cooking,low,mainstream,professional,yourself,Japan,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,Canada,10,backpack
+baby,medium,mainstream,vintage,parents,Germany,14,baby swing
+automotive,high,mainstream,monochromatic,spouse,USA,7,car polish
+apparel,low,non-mainstream,universal,friends,Japan,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Australia,7,plush panda
+toys,high,mainstream,Chinese,children,USA,5,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Canada,14,cat food
+kitchen,medium,mainstream,Asian,neighbors,China,5,food processor
+dancing,high,mainstream,cute,classmates,India,10,ballet slippers
+cooking,low,mainstream,professional,yourself,USA,3,pan
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,3,camping stove
+baby,medium,mainstream,vintage,parents,USA,3,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Japan,14,car vacuum
+apparel,low,non-mainstream,universal,friends,Japan,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,China,14,plush panda
+toys,high,mainstream,Chinese,children,USA,5,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Japan,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Japan,10,blender
+dancing,high,mainstream,cute,classmates,Australia,10,dancing shoes
+cooking,low,mainstream,professional,yourself,Australia,5,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,Australia,5,lantern
+baby,medium,mainstream,vintage,parents,Japan,5,baby swing
+automotive,high,mainstream,monochromatic,spouse,Japan,7,car wax
+apparel,low,non-mainstream,universal,friends,Australia,3,jacket
+plush,medium,non-mainstream,caricature,colleagues,India,7,plush tiger
+toys,high,mainstream,Chinese,children,USA,3,toy truck
+pet-friendly,low,non-mainstream,Western,pets,UK,7,fish food
+kitchen,medium,mainstream,Asian,neighbors,China,14,food processor
+dancing,high,mainstream,cute,classmates,France,3,ballet slippers
+cooking,low,mainstream,professional,yourself,France,7,blender
+outdoor,high,non-mainstream,minimalist,siblings,Canada,5,backpack
+baby,medium,mainstream,vintage,parents,China,5,baby crib
+automotive,high,mainstream,monochromatic,spouse,Canada,10,car wax
+apparel,low,non-mainstream,universal,friends,Singapore,10,dress
+plush,medium,non-mainstream,caricature,colleagues,Australia,14,teddy bear
+toys,high,mainstream,Chinese,children,India,5,toy truck
+pet-friendly,low,non-mainstream,Western,pets,France,10,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Australia,5,kettle
+dancing,high,mainstream,cute,classmates,Japan,3,dancing shoes
+cooking,low,mainstream,professional,yourself,UK,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,India,7,tent
+baby,medium,mainstream,vintage,parents,Canada,7,baby crib
+automotive,high,mainstream,monochromatic,spouse,UK,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,China,14,dress
+plush,medium,non-mainstream,caricature,colleagues,Australia,3,plush panda
+toys,high,mainstream,Chinese,children,Singapore,14,toy truck
+pet-friendly,low,non-mainstream,Western,pets,USA,14,dog leash
+kitchen,medium,mainstream,Asian,neighbors,India,5,kettle
+dancing,high,mainstream,cute,classmates,Singapore,5,tap shoes
+cooking,low,mainstream,professional,yourself,Japan,5,pan
+outdoor,high,non-mainstream,minimalist,siblings,India,3,backpack
+baby,medium,mainstream,vintage,parents,Germany,14,baby crib
+automotive,high,mainstream,monochromatic,spouse,UK,5,car vacuum
+apparel,low,non-mainstream,universal,friends,Australia,5,hoodie
+plush,medium,non-mainstream,caricature,colleagues,India,7,teddy bear
+toys,high,mainstream,Chinese,children,Canada,5,lego set
+pet-friendly,low,non-mainstream,Western,pets,Australia,7,dog food
+kitchen,medium,mainstream,Asian,neighbors,Japan,10,microwave
+dancing,high,mainstream,cute,classmates,Canada,10,tap shoes
+cooking,low,mainstream,professional,yourself,UK,10,blender
+outdoor,high,non-mainstream,minimalist,siblings,Germany,7,backpack
+baby,medium,mainstream,vintage,parents,UK,10,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Canada,5,car polish
+apparel,low,non-mainstream,universal,friends,USA,14,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Canada,5,plush panda
+toys,high,mainstream,Chinese,children,Canada,7,action figure
+pet-friendly,low,non-mainstream,Western,pets,Canada,7,fish food
+kitchen,medium,mainstream,Asian,neighbors,USA,10,kettle
+dancing,high,mainstream,cute,classmates,India,10,dancing shoes
+cooking,low,mainstream,professional,yourself,India,7,spatula
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,10,camping stove
+baby,medium,mainstream,vintage,parents,China,3,baby bottle
+automotive,high,mainstream,monochromatic,spouse,India,10,car wax
+apparel,low,non-mainstream,universal,friends,France,3,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Japan,5,plush panda
+toys,high,mainstream,Chinese,children,USA,7,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Germany,7,cat food
+kitchen,medium,mainstream,Asian,neighbors,France,10,kettle
+dancing,high,mainstream,cute,classmates,Germany,14,dancing shoes
+cooking,low,mainstream,professional,yourself,Canada,14,pan
+outdoor,high,non-mainstream,minimalist,siblings,Japan,10,tent
+baby,medium,mainstream,vintage,parents,Japan,5,baby stroller
+automotive,high,mainstream,monochromatic,spouse,USA,10,tire cleaner
+apparel,low,non-mainstream,universal,friends,China,3,jacket
+plush,medium,non-mainstream,caricature,colleagues,Canada,3,plush bear
+toys,high,mainstream,Chinese,children,Australia,14,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,10,bird food
+kitchen,medium,mainstream,Asian,neighbors,USA,14,microwave
+dancing,high,mainstream,cute,classmates,Canada,7,dancing shoes
+cooking,low,mainstream,professional,yourself,Singapore,7,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Japan,7,backpack
+baby,medium,mainstream,vintage,parents,Australia,3,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Japan,14,car polish
+apparel,low,non-mainstream,universal,friends,Canada,5,hoodie
+plush,medium,non-mainstream,caricature,colleagues,Germany,14,plush elephant
+toys,high,mainstream,Chinese,children,Japan,14,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Singapore,7,bird food
+kitchen,medium,mainstream,Asian,neighbors,China,3,rice cooker
+dancing,high,mainstream,cute,classmates,Singapore,7,jazz shoes
+cooking,low,mainstream,professional,yourself,India,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,France,3,tent
+baby,medium,mainstream,vintage,parents,Australia,10,baby swing
+automotive,high,mainstream,monochromatic,spouse,India,14,car vacuum
+apparel,low,non-mainstream,universal,friends,Singapore,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,India,5,teddy bear
+toys,high,mainstream,Chinese,children,China,14,robot toy
+pet-friendly,low,non-mainstream,Western,pets,UK,10,dog leash
+kitchen,medium,mainstream,Asian,neighbors,UK,10,blender
+dancing,high,mainstream,cute,classmates,Germany,5,dancing shoes
+cooking,low,mainstream,professional,yourself,France,5,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,Canada,10,lantern
+baby,medium,mainstream,vintage,parents,Singapore,7,baby walker
+automotive,high,mainstream,monochromatic,spouse,Australia,5,car polish
+apparel,low,non-mainstream,universal,friends,Singapore,5,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Germany,3,plush bear
+toys,high,mainstream,Chinese,children,Japan,10,action figure
+pet-friendly,low,non-mainstream,Western,pets,India,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Singapore,5,coffee maker
+dancing,high,mainstream,cute,classmates,UK,5,dancing shoes
+cooking,low,mainstream,professional,yourself,USA,7,blender
+outdoor,high,non-mainstream,minimalist,siblings,India,3,lantern
+baby,medium,mainstream,vintage,parents,Germany,5,baby swing
+automotive,high,mainstream,monochromatic,spouse,Canada,7,car polish
+apparel,low,non-mainstream,universal,friends,China,14,jacket
+plush,medium,non-mainstream,caricature,colleagues,Germany,5,teddy bear
+toys,high,mainstream,Chinese,children,India,3,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Australia,7,bird food
+kitchen,medium,mainstream,Asian,neighbors,Germany,7,food processor
+dancing,high,mainstream,cute,classmates,Singapore,7,dancing shoes
+cooking,low,mainstream,professional,yourself,USA,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,Canada,14,camping stove
+baby,medium,mainstream,vintage,parents,USA,5,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Canada,7,car polish
+apparel,low,non-mainstream,universal,friends,UK,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,USA,3,plush tiger
+toys,high,mainstream,Chinese,children,China,5,puzzle
+pet-friendly,low,non-mainstream,Western,pets,China,5,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Singapore,5,microwave
+dancing,high,mainstream,cute,classmates,France,14,dancing shoes
+cooking,low,mainstream,professional,yourself,Australia,5,pan
+outdoor,high,non-mainstream,minimalist,siblings,France,3,tent
+baby,medium,mainstream,vintage,parents,Germany,7,baby walker
+automotive,high,mainstream,monochromatic,spouse,USA,7,car vacuum
+apparel,low,non-mainstream,universal,friends,India,7,dress
+plush,medium,non-mainstream,caricature,colleagues,Germany,10,plush elephant
+toys,high,mainstream,Chinese,children,UK,7,lego set
+pet-friendly,low,non-mainstream,Western,pets,France,5,cat food
+kitchen,medium,mainstream,Asian,neighbors,Japan,14,blender
+dancing,high,mainstream,cute,classmates,USA,10,jazz shoes
+cooking,low,mainstream,professional,yourself,Singapore,3,spatula
+outdoor,high,non-mainstream,minimalist,siblings,France,10,camping stove
+baby,medium,mainstream,vintage,parents,USA,14,baby crib
+automotive,high,mainstream,monochromatic,spouse,India,7,car polish
+apparel,low,non-mainstream,universal,friends,Japan,3,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Canada,5,plush tiger
+toys,high,mainstream,Chinese,children,China,3,lego set
+pet-friendly,low,non-mainstream,Western,pets,China,3,bird food
+kitchen,medium,mainstream,Asian,neighbors,UK,14,kettle
+dancing,high,mainstream,cute,classmates,Singapore,14,dancing shoes
+cooking,low,mainstream,professional,yourself,India,7,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Canada,10,tent
+baby,medium,mainstream,vintage,parents,China,10,baby stroller
+automotive,high,mainstream,monochromatic,spouse,USA,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,UK,10,shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,5,plush panda
+toys,high,mainstream,Chinese,children,Canada,7,action figure
+pet-friendly,low,non-mainstream,Western,pets,China,7,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,UK,3,microwave
+dancing,high,mainstream,cute,classmates,Singapore,3,salsa shoes
+cooking,low,mainstream,professional,yourself,Germany,14,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,Canada,5,tent
+baby,medium,mainstream,vintage,parents,Singapore,14,baby walker
+automotive,high,mainstream,monochromatic,spouse,UK,10,car seat cover
+apparel,low,non-mainstream,universal,friends,Germany,14,jeans
+plush,medium,non-mainstream,caricature,colleagues,China,7,plush elephant
+toys,high,mainstream,Chinese,children,Australia,5,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,3,cat food
+kitchen,medium,mainstream,Asian,neighbors,Japan,3,kettle
+dancing,high,mainstream,cute,classmates,India,10,dancing shoes
+cooking,low,mainstream,professional,yourself,USA,14,pan
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,7,backpack
+baby,medium,mainstream,vintage,parents,Australia,5,baby crib
+automotive,high,mainstream,monochromatic,spouse,Germany,7,car seat cover
+apparel,low,non-mainstream,universal,friends,Japan,3,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,3,plush elephant
+toys,high,mainstream,Chinese,children,Japan,14,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,7,cat food
+kitchen,medium,mainstream,Asian,neighbors,Germany,5,rice cooker
+dancing,high,mainstream,cute,classmates,Australia,5,tap shoes
+cooking,low,mainstream,professional,yourself,Germany,3,pan
+outdoor,high,non-mainstream,minimalist,siblings,Germany,14,backpack
+baby,medium,mainstream,vintage,parents,Germany,14,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Australia,10,car polish
+apparel,low,non-mainstream,universal,friends,UK,5,jacket
+plush,medium,non-mainstream,caricature,colleagues,China,14,plush panda
+toys,high,mainstream,Chinese,children,USA,10,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Germany,3,dog leash
+kitchen,medium,mainstream,Asian,neighbors,France,10,blender
+dancing,high,mainstream,cute,classmates,China,7,tap shoes
+cooking,low,mainstream,professional,yourself,UK,14,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,China,14,lantern
+baby,medium,mainstream,vintage,parents,Canada,10,baby bottle
+automotive,high,mainstream,monochromatic,spouse,India,10,tire cleaner
+apparel,low,non-mainstream,universal,friends,Canada,14,shirt
+plush,medium,non-mainstream,caricature,colleagues,India,5,plush lion
+toys,high,mainstream,Chinese,children,Singapore,10,lego set
+pet-friendly,low,non-mainstream,Western,pets,Canada,7,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Australia,10,coffee maker
+dancing,high,mainstream,cute,classmates,France,10,dancing shoes
+cooking,low,mainstream,professional,yourself,Canada,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,10,lantern
+baby,medium,mainstream,vintage,parents,China,5,baby walker
+automotive,high,mainstream,monochromatic,spouse,Singapore,5,tire cleaner
+apparel,low,non-mainstream,universal,friends,Australia,3,shirt
+plush,medium,non-mainstream,caricature,colleagues,USA,3,plush elephant
+toys,high,mainstream,Chinese,children,Canada,5,toy truck
+pet-friendly,low,non-mainstream,Western,pets,UK,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,China,3,blender
+dancing,high,mainstream,cute,classmates,Japan,14,jazz shoes
+cooking,low,mainstream,professional,yourself,UK,5,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Canada,3,camping stove
+baby,medium,mainstream,vintage,parents,China,14,baby walker
+automotive,high,mainstream,monochromatic,spouse,UK,14,car vacuum
+apparel,low,non-mainstream,universal,friends,Australia,3,shirt
+plush,medium,non-mainstream,caricature,colleagues,USA,3,plush panda
+toys,high,mainstream,Chinese,children,Singapore,3,lego set
+pet-friendly,low,non-mainstream,Western,pets,Germany,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,Singapore,3,coffee maker
+dancing,high,mainstream,cute,classmates,USA,3,dancing shoes
+cooking,low,mainstream,professional,yourself,Canada,5,pan
+outdoor,high,non-mainstream,minimalist,siblings,Canada,7,camping stove
+baby,medium,mainstream,vintage,parents,Canada,3,baby swing
+automotive,high,mainstream,monochromatic,spouse,Australia,10,tire cleaner
+apparel,low,non-mainstream,universal,friends,China,3,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,USA,5,plush bear
+toys,high,mainstream,Chinese,children,China,3,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Singapore,14,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Canada,14,food processor
+dancing,high,mainstream,cute,classmates,Japan,3,ballet slippers
+cooking,low,mainstream,professional,yourself,Canada,10,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,Canada,14,backpack
+baby,medium,mainstream,vintage,parents,Singapore,7,baby crib
+automotive,high,mainstream,monochromatic,spouse,Singapore,5,car vacuum
+apparel,low,non-mainstream,universal,friends,China,5,jeans
+plush,medium,non-mainstream,caricature,colleagues,Singapore,5,plush lion
+toys,high,mainstream,Chinese,children,China,10,puzzle
+pet-friendly,low,non-mainstream,Western,pets,China,10,bird food
+kitchen,medium,mainstream,Asian,neighbors,Australia,10,blender
+dancing,high,mainstream,cute,classmates,China,14,tap shoes
+cooking,low,mainstream,professional,yourself,Singapore,3,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,10,backpack
+baby,medium,mainstream,vintage,parents,India,10,baby stroller
+automotive,high,mainstream,monochromatic,spouse,USA,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,India,14,dress
+plush,medium,non-mainstream,caricature,colleagues,Canada,5,plush elephant
+toys,high,mainstream,Chinese,children,Japan,5,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Germany,7,fish food
+kitchen,medium,mainstream,Asian,neighbors,Germany,7,coffee maker
+dancing,high,mainstream,cute,classmates,Singapore,3,dancing shoes
+cooking,low,mainstream,professional,yourself,China,5,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,UK,10,backpack
+baby,medium,mainstream,vintage,parents,China,3,baby walker
+automotive,high,mainstream,monochromatic,spouse,USA,10,car wax
+apparel,low,non-mainstream,universal,friends,Germany,5,shirt
+plush,medium,non-mainstream,caricature,colleagues,Canada,14,plush bear
+toys,high,mainstream,Chinese,children,Singapore,7,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Singapore,3,bird food
+kitchen,medium,mainstream,Asian,neighbors,Australia,14,rice cooker
+dancing,high,mainstream,cute,classmates,USA,5,ballet slippers
+cooking,low,mainstream,professional,yourself,Singapore,10,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,Canada,5,lantern
+baby,medium,mainstream,vintage,parents,Canada,7,baby crib
+automotive,high,mainstream,monochromatic,spouse,China,7,car vacuum
+apparel,low,non-mainstream,universal,friends,China,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,5,plush tiger
+toys,high,mainstream,Chinese,children,China,10,action figure
+pet-friendly,low,non-mainstream,Western,pets,Japan,14,bird food
+kitchen,medium,mainstream,Asian,neighbors,UK,7,rice cooker
+dancing,high,mainstream,cute,classmates,Canada,5,ballet slippers
+cooking,low,mainstream,professional,yourself,UK,14,blender
+outdoor,high,non-mainstream,minimalist,siblings,China,7,tent
+baby,medium,mainstream,vintage,parents,Canada,7,baby walker
+automotive,high,mainstream,monochromatic,spouse,Japan,10,car seat cover
+apparel,low,non-mainstream,universal,friends,USA,5,jacket
+plush,medium,non-mainstream,caricature,colleagues,Singapore,7,plush bear
+toys,high,mainstream,Chinese,children,USA,14,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Japan,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,UK,10,coffee maker
+dancing,high,mainstream,cute,classmates,China,3,tap shoes
+cooking,low,mainstream,professional,yourself,India,3,spatula
+outdoor,high,non-mainstream,minimalist,siblings,Germany,10,lantern
+baby,medium,mainstream,vintage,parents,Japan,7,baby stroller
+automotive,high,mainstream,monochromatic,spouse,France,7,tire cleaner
+apparel,low,non-mainstream,universal,friends,Singapore,14,jeans
+plush,medium,non-mainstream,caricature,colleagues,Canada,7,plush panda
+toys,high,mainstream,Chinese,children,China,3,lego set
+pet-friendly,low,non-mainstream,Western,pets,Canada,7,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,China,10,food processor
+dancing,high,mainstream,cute,classmates,Canada,5,salsa shoes
+cooking,low,mainstream,professional,yourself,China,14,blender
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,14,camping stove
+baby,medium,mainstream,vintage,parents,Australia,14,baby stroller
+automotive,high,mainstream,monochromatic,spouse,China,10,car seat cover
+apparel,low,non-mainstream,universal,friends,India,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,India,14,plush bear
+toys,high,mainstream,Chinese,children,USA,7,action figure
+pet-friendly,low,non-mainstream,Western,pets,China,3,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Singapore,14,kettle
+dancing,high,mainstream,cute,classmates,India,5,jazz shoes
+cooking,low,mainstream,professional,yourself,China,10,blender
+outdoor,high,non-mainstream,minimalist,siblings,USA,14,camping stove
+baby,medium,mainstream,vintage,parents,Canada,10,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Japan,10,car polish
+apparel,low,non-mainstream,universal,friends,France,3,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Japan,14,plush panda
+toys,high,mainstream,Chinese,children,Singapore,14,board game
+pet-friendly,low,non-mainstream,Western,pets,India,14,cat food
+kitchen,medium,mainstream,Asian,neighbors,Singapore,5,kettle
+dancing,high,mainstream,cute,classmates,France,3,jazz shoes
+cooking,low,mainstream,professional,yourself,Australia,5,spatula
+outdoor,high,non-mainstream,minimalist,siblings,India,10,lantern
+baby,medium,mainstream,vintage,parents,UK,3,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Germany,5,car polish
+apparel,low,non-mainstream,universal,friends,Germany,14,jacket
+plush,medium,non-mainstream,caricature,colleagues,France,5,plush tiger
+toys,high,mainstream,Chinese,children,India,14,lego set
+pet-friendly,low,non-mainstream,Western,pets,France,14,cat food
+kitchen,medium,mainstream,Asian,neighbors,UK,7,kettle
+dancing,high,mainstream,cute,classmates,Japan,5,salsa shoes
+cooking,low,mainstream,professional,yourself,Canada,7,blender
+outdoor,high,non-mainstream,minimalist,siblings,UK,5,backpack
+baby,medium,mainstream,vintage,parents,Germany,14,baby swing
+automotive,high,mainstream,monochromatic,spouse,China,10,car wax
+apparel,low,non-mainstream,universal,friends,Japan,5,shirt
+plush,medium,non-mainstream,caricature,colleagues,France,10,teddy bear
+toys,high,mainstream,Chinese,children,UK,10,board game
+pet-friendly,low,non-mainstream,Western,pets,Canada,14,dog food
+kitchen,medium,mainstream,Asian,neighbors,India,10,blender
+dancing,high,mainstream,cute,classmates,Japan,10,tap shoes
+cooking,low,mainstream,professional,yourself,China,5,pan
+outdoor,high,non-mainstream,minimalist,siblings,France,5,backpack
+baby,medium,mainstream,vintage,parents,China,14,baby bottle
+automotive,high,mainstream,monochromatic,spouse,Australia,5,car vacuum
+apparel,low,non-mainstream,universal,friends,France,10,hoodie
+plush,medium,non-mainstream,caricature,colleagues,France,10,plush panda
+toys,high,mainstream,Chinese,children,India,14,action figure
+pet-friendly,low,non-mainstream,Western,pets,Singapore,3,bird food
+kitchen,medium,mainstream,Asian,neighbors,China,5,kettle
+dancing,high,mainstream,cute,classmates,China,3,tap shoes
+cooking,low,mainstream,professional,yourself,Australia,14,spatula
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,3,camping stove
+baby,medium,mainstream,vintage,parents,Canada,14,baby monitor
+automotive,high,mainstream,monochromatic,spouse,China,5,car wax
+apparel,low,non-mainstream,universal,friends,Singapore,10,jacket
+plush,medium,non-mainstream,caricature,colleagues,UK,7,plush elephant
+toys,high,mainstream,Chinese,children,Canada,5,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Germany,7,dog leash
+kitchen,medium,mainstream,Asian,neighbors,India,10,food processor
+dancing,high,mainstream,cute,classmates,Canada,14,jazz shoes
+cooking,low,mainstream,professional,yourself,India,5,blender
+outdoor,high,non-mainstream,minimalist,siblings,India,7,camping stove
+baby,medium,mainstream,vintage,parents,Australia,10,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Canada,14,car seat cover
+apparel,low,non-mainstream,universal,friends,Germany,3,hoodie
+plush,medium,non-mainstream,caricature,colleagues,USA,3,plush panda
+toys,high,mainstream,Chinese,children,UK,14,board game
+pet-friendly,low,non-mainstream,Western,pets,Japan,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,India,14,microwave
+dancing,high,mainstream,cute,classmates,Canada,14,jazz shoes
+cooking,low,mainstream,professional,yourself,USA,3,pan
+outdoor,high,non-mainstream,minimalist,siblings,France,5,camping stove
+baby,medium,mainstream,vintage,parents,Canada,10,baby crib
+automotive,high,mainstream,monochromatic,spouse,France,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,UK,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,Singapore,14,plush panda
+toys,high,mainstream,Chinese,children,Australia,14,board game
+pet-friendly,low,non-mainstream,Western,pets,Canada,10,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,India,5,rice cooker
+dancing,high,mainstream,cute,classmates,Canada,10,dancing shoes
+cooking,low,mainstream,professional,yourself,Germany,3,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,5,camping stove
+baby,medium,mainstream,vintage,parents,Australia,5,baby swing
+automotive,high,mainstream,monochromatic,spouse,France,3,car seat cover
+apparel,low,non-mainstream,universal,friends,Singapore,14,jeans
+plush,medium,non-mainstream,caricature,colleagues,Japan,10,plush bear
+toys,high,mainstream,Chinese,children,Singapore,14,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Japan,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,Germany,14,coffee maker
+dancing,high,mainstream,cute,classmates,Japan,5,ballet slippers
+cooking,low,mainstream,professional,yourself,Canada,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,China,14,camping stove
+baby,medium,mainstream,vintage,parents,Singapore,5,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Australia,10,car vacuum
+apparel,low,non-mainstream,universal,friends,China,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Japan,3,plush bear
+toys,high,mainstream,Chinese,children,Canada,10,board game
+pet-friendly,low,non-mainstream,Western,pets,France,3,dog leash
+kitchen,medium,mainstream,Asian,neighbors,France,7,coffee maker
+dancing,high,mainstream,cute,classmates,UK,5,tap shoes
+cooking,low,mainstream,professional,yourself,India,5,pan
+outdoor,high,non-mainstream,minimalist,siblings,UK,3,lantern
+baby,medium,mainstream,vintage,parents,Germany,3,baby swing
+automotive,high,mainstream,monochromatic,spouse,Singapore,14,car vacuum
+apparel,low,non-mainstream,universal,friends,Singapore,7,shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,14,plush lion
+toys,high,mainstream,Chinese,children,China,14,robot toy
+pet-friendly,low,non-mainstream,Western,pets,UK,3,dog leash
+kitchen,medium,mainstream,Asian,neighbors,Germany,14,microwave
+dancing,high,mainstream,cute,classmates,India,3,jazz shoes
+cooking,low,mainstream,professional,yourself,Canada,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,USA,3,camping stove
+baby,medium,mainstream,vintage,parents,Germany,14,baby walker
+automotive,high,mainstream,monochromatic,spouse,Australia,10,car polish
+apparel,low,non-mainstream,universal,friends,France,14,jeans
+plush,medium,non-mainstream,caricature,colleagues,Australia,5,plush bear
+toys,high,mainstream,Chinese,children,Singapore,14,lego set
+pet-friendly,low,non-mainstream,Western,pets,Japan,5,bird food
+kitchen,medium,mainstream,Asian,neighbors,India,10,coffee maker
+dancing,high,mainstream,cute,classmates,Singapore,10,dancing shoes
+cooking,low,mainstream,professional,yourself,USA,10,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,France,14,lantern
+baby,medium,mainstream,vintage,parents,UK,10,baby stroller
+automotive,high,mainstream,monochromatic,spouse,France,5,car wax
+apparel,low,non-mainstream,universal,friends,Singapore,10,shirt
+plush,medium,non-mainstream,caricature,colleagues,Australia,3,plush panda
+toys,high,mainstream,Chinese,children,India,3,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Canada,14,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,Canada,5,rice cooker
+dancing,high,mainstream,cute,classmates,Germany,14,salsa shoes
+cooking,low,mainstream,professional,yourself,Japan,5,pan
+outdoor,high,non-mainstream,minimalist,siblings,Australia,5,lantern
+baby,medium,mainstream,vintage,parents,Japan,7,baby monitor
+automotive,high,mainstream,monochromatic,spouse,USA,14,car wax
+apparel,low,non-mainstream,universal,friends,Germany,5,jacket
+plush,medium,non-mainstream,caricature,colleagues,Australia,10,plush panda
+toys,high,mainstream,Chinese,children,Germany,14,lego set
+pet-friendly,low,non-mainstream,Western,pets,UK,3,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,China,3,rice cooker
+dancing,high,mainstream,cute,classmates,Canada,10,jazz shoes
+cooking,low,mainstream,professional,yourself,India,14,blender
+outdoor,high,non-mainstream,minimalist,siblings,Japan,7,lantern
+baby,medium,mainstream,vintage,parents,Germany,10,baby crib
+automotive,high,mainstream,monochromatic,spouse,Germany,3,car vacuum
+apparel,low,non-mainstream,universal,friends,Australia,10,jacket
+plush,medium,non-mainstream,caricature,colleagues,China,3,plush elephant
+toys,high,mainstream,Chinese,children,France,5,robot toy
+pet-friendly,low,non-mainstream,Western,pets,Singapore,10,fish food
+kitchen,medium,mainstream,Asian,neighbors,Germany,5,food processor
+dancing,high,mainstream,cute,classmates,France,14,dancing shoes
+cooking,low,mainstream,professional,yourself,China,7,knife set
+outdoor,high,non-mainstream,minimalist,siblings,Canada,5,camping stove
+baby,medium,mainstream,vintage,parents,Singapore,10,baby crib
+automotive,high,mainstream,monochromatic,spouse,Australia,14,car vacuum
+apparel,low,non-mainstream,universal,friends,India,7,dress
+plush,medium,non-mainstream,caricature,colleagues,Canada,3,plush tiger
+toys,high,mainstream,Chinese,children,India,5,toy truck
+pet-friendly,low,non-mainstream,Western,pets,Australia,7,dog food
+kitchen,medium,mainstream,Asian,neighbors,India,5,kettle
+dancing,high,mainstream,cute,classmates,Singapore,10,salsa shoes
+cooking,low,mainstream,professional,yourself,Australia,7,blender
+outdoor,high,non-mainstream,minimalist,siblings,Germany,14,backpack
+baby,medium,mainstream,vintage,parents,USA,7,baby walker
+automotive,high,mainstream,monochromatic,spouse,Germany,5,tire cleaner
+apparel,low,non-mainstream,universal,friends,Germany,7,jeans
+plush,medium,non-mainstream,caricature,colleagues,Japan,10,teddy bear
+toys,high,mainstream,Chinese,children,Singapore,7,action figure
+pet-friendly,low,non-mainstream,Western,pets,Singapore,10,bird food
+kitchen,medium,mainstream,Asian,neighbors,Singapore,14,food processor
+dancing,high,mainstream,cute,classmates,USA,5,dancing shoes
+cooking,low,mainstream,professional,yourself,UK,3,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,Japan,10,backpack
+baby,medium,mainstream,vintage,parents,Canada,10,baby walker
+automotive,high,mainstream,monochromatic,spouse,USA,14,car vacuum
+apparel,low,non-mainstream,universal,friends,Germany,7,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,Canada,7,plush elephant
+toys,high,mainstream,Chinese,children,Singapore,7,robot toy
+pet-friendly,low,non-mainstream,Western,pets,France,7,dog food
+kitchen,medium,mainstream,Asian,neighbors,Japan,14,blender
+dancing,high,mainstream,cute,classmates,India,7,jazz shoes
+cooking,low,mainstream,professional,yourself,France,10,pan
+outdoor,high,non-mainstream,minimalist,siblings,UK,10,camping stove
+baby,medium,mainstream,vintage,parents,Singapore,14,baby walker
+automotive,high,mainstream,monochromatic,spouse,Japan,14,car wax
+apparel,low,non-mainstream,universal,friends,Germany,10,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,France,5,plush bear
+toys,high,mainstream,Chinese,children,Singapore,14,lego set
+pet-friendly,low,non-mainstream,Western,pets,Canada,5,dog leash
+kitchen,medium,mainstream,Asian,neighbors,India,7,coffee maker
+dancing,high,mainstream,cute,classmates,USA,10,dancing shoes
+cooking,low,mainstream,professional,yourself,Canada,5,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,Singapore,7,tent
+baby,medium,mainstream,vintage,parents,France,7,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Germany,14,tire cleaner
+apparel,low,non-mainstream,universal,friends,China,5,t-shirt
+plush,medium,non-mainstream,caricature,colleagues,UK,3,plush tiger
+toys,high,mainstream,Chinese,children,India,10,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Japan,3,rabbit food
+kitchen,medium,mainstream,Asian,neighbors,UK,5,rice cooker
+dancing,high,mainstream,cute,classmates,USA,3,jazz shoes
+cooking,low,mainstream,professional,yourself,Australia,7,cutting board
+outdoor,high,non-mainstream,minimalist,siblings,India,10,backpack
+baby,medium,mainstream,vintage,parents,Australia,14,baby monitor
+automotive,high,mainstream,monochromatic,spouse,Australia,5,car vacuum
+apparel,low,non-mainstream,universal,friends,India,3,jacket
+plush,medium,non-mainstream,caricature,colleagues,Canada,10,teddy bear
+toys,high,mainstream,Chinese,children,India,3,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Canada,7,dog leash
+kitchen,medium,mainstream,Asian,neighbors,USA,14,coffee maker
+dancing,high,mainstream,cute,classmates,Japan,5,jazz shoes
+cooking,low,mainstream,professional,yourself,France,7,knife set
+outdoor,high,non-mainstream,minimalist,siblings,UK,10,lantern
+baby,medium,mainstream,vintage,parents,Australia,10,baby crib
+automotive,high,mainstream,monochromatic,spouse,UK,10,car wax
+apparel,low,non-mainstream,universal,friends,UK,7,jacket
+plush,medium,non-mainstream,caricature,colleagues,China,10,plush panda
+toys,high,mainstream,Chinese,children,Singapore,14,board game
+pet-friendly,low,non-mainstream,Western,pets,Germany,7,dog food
+kitchen,medium,mainstream,Asian,neighbors,USA,3,microwave
+dancing,high,mainstream,cute,classmates,Germany,7,dancing shoes
+cooking,low,mainstream,professional,yourself,USA,10,frying pan
+outdoor,high,non-mainstream,minimalist,siblings,UK,3,lantern
+baby,medium,mainstream,vintage,parents,Canada,7,baby stroller
+automotive,high,mainstream,monochromatic,spouse,Germany,7,car wax
+apparel,low,non-mainstream,universal,friends,UK,10,shirt
+plush,medium,non-mainstream,caricature,colleagues,Canada,3,teddy bear
+toys,high,mainstream,Chinese,children,Singapore,10,puzzle
+pet-friendly,low,non-mainstream,Western,pets,Australia,5,cat food
+kitchen,medium,mainstream,Asian,neighbors,China,5,kettle
+dancing,high,mainstream,cute,classmates,Japan,14,tap shoes
