@@ -19,7 +19,9 @@ def read_key_from_file(filename):
 base_dir = os.path.dirname(__file__)
 api_path = os.path.join(base_dir, '../secrets/api.txt')
 
+#Change this to env variable when deploying
 client = OpenAI(
+    #api_key = read_key_from_file(os.getenv('API_KEY_FILE'))
     api_key = read_key_from_file(api_path)
 )
 
